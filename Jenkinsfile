@@ -9,4 +9,5 @@ node {
    stage ('stage3') {
     sh 'echo "This is stage 3"' 
 
+    }
 }
